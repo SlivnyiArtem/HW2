@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dC7rxcGHqNwPKASf6cH307TO233NaVXv5q6GKdK9+NwmD+sDpcDekWZqOD8OmILC9qptRRIVzIvsjsrGN91vpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Artem\\source\\repos\\HW3\\HW3\\HW3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

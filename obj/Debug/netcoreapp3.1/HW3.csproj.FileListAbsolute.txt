@@ -1,0 +1,13 @@
+C:\Users\Artem\source\repos\HW3\HW3\bin\Debug\netcoreapp3.1\HW3.exe
+C:\Users\Artem\source\repos\HW3\HW3\bin\Debug\netcoreapp3.1\HW3.deps.json
+C:\Users\Artem\source\repos\HW3\HW3\bin\Debug\netcoreapp3.1\HW3.runtimeconfig.json
+C:\Users\Artem\source\repos\HW3\HW3\bin\Debug\netcoreapp3.1\HW3.runtimeconfig.dev.json
+C:\Users\Artem\source\repos\HW3\HW3\bin\Debug\netcoreapp3.1\HW3.dll
+C:\Users\Artem\source\repos\HW3\HW3\bin\Debug\netcoreapp3.1\HW3.pdb
+C:\Users\Artem\source\repos\HW3\HW3\obj\Debug\netcoreapp3.1\HW3.csprojAssemblyReference.cache
+C:\Users\Artem\source\repos\HW3\HW3\obj\Debug\netcoreapp3.1\HW3.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\HW3\HW3\obj\Debug\netcoreapp3.1\HW3.AssemblyInfo.cs
+C:\Users\Artem\source\repos\HW3\HW3\obj\Debug\netcoreapp3.1\HW3.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\HW3\HW3\obj\Debug\netcoreapp3.1\HW3.dll
+C:\Users\Artem\source\repos\HW3\HW3\obj\Debug\netcoreapp3.1\HW3.pdb
+C:\Users\Artem\source\repos\HW3\HW3\obj\Debug\netcoreapp3.1\HW3.genruntimeconfig.cache
